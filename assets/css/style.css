@@ -1,0 +1,56 @@
+#imagenBorde{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#trio.bordered{
+    border: 2px solid red
+}
+
+.stickerContainer{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-image: url("../img/background.jpg");
+}
+h1{
+    background-color: rgb(21, 21, 153);
+}
+
+.stickers{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.imagen{
+    width: 500px;
+}
+
+.boton{
+    padding: 20px;
+    margin: 10px;
+}
+
+.contraseña{
+    margin-top: 20px;
+    text-align: center;
+    border-color: solid black;
+}
+
+.select{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+select{
+    width: 55px;
+    height: 25px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
